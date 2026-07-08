@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Vector Database
+vectordb/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE Files
+.vscode/
+.idea/
+
+# FAISS Files
+*.faiss
+*.pkl
+
+# OS Files
+.DS_Store
